@@ -1,4 +1,5 @@
-#Análise das complexidades de cada função
+# Análise das complexidades de cada função
+## Alunos: Cristian Soares de Souza Chagas Filho e Vinicius Paiva de Oliveira
 
 ### _init_:
 * Big O (O): O(n), onde n é o número de linhas no arquivo CSV. Isso ocorre devido à leitura de todas as linhas e à conversão dos preços.
