@@ -33,25 +33,25 @@
 
 ### find_laptop_within_price_range:
 * Big O (O): O(n), onde n é o número de laptops na lista. A função percorre a lista ordenada para encontrar laptops dentro do intervalo de preço.
-* Big Theta (Θ): Θ(n), no pior caso.
-* Big Omega (Ω): Ω(1), se o intervalo de preço não incluir laptops na lista.
+* Big Theta (Θ): Θ(n), na media.
+* Big Omega (Ω): Ω(n), independente da ordem dos laptops, o algoritmo deve percorrer a lista inteira buscando pelo intervalo de preços.
 
 ### find_laptop_with_RAM_and_storage:
 * Big O (O): O(n), onde n é o número de laptops na lista. A função percorre todas as linhas para encontrar laptops com RAM e armazenamento específicos.
-* Big Theta (Θ): Θ(n), no pior caso.
-* Big Omega (Ω): Ω(1), se não houver laptops com as especificações dadas.
+* Big Theta (Θ): Θ(n), na media.
+* Big Omega (Ω): Ω(n), independente da ordem dos laptops, o algoritmo deve percorrer a lista inteira buscando pelo intervalo de preços.
 
 ### find_laptop_within_RAM_range:
 * Big O (O): O(n), onde n é o número de laptops na lista. A função percorre todas as linhas para encontrar laptops com RAM dentro do intervalo especificado.
-* Big Theta (Θ): Θ(n), no pior caso.
-* Big Omega (Ω): Ω(1), se não houver laptops com RAM dentro do intervalo.
+* Big Theta (Θ): Θ(n), na media.
+* Big Omega (Ω): Ω(n), independente da ordem dos laptops, o algoritmo deve percorrer a lista inteira buscando pelo intervalo de preços.
 
 ### find_laptop_within_storage_range:
 * Big O (O): O(n), onde n é o número de laptops na lista. A função percorre todas as linhas para encontrar laptops com armazenamento dentro do intervalo especificado.
-* Big Theta (Θ): Θ(n), no pior caso.
-* Big Omega (Ω): Ω(1), se não houver laptops com armazenamento dentro do intervalo.
+* Big Theta (Θ): Θ(n), na media.
+* Big Omega (Ω): Ω(n), independente da ordem dos laptops, o algoritmo deve percorrer a lista inteira buscando pelo intervalo de preços.
 
 ### find_laptop_with_RAM_range_and_storage_range:
 * Big O (O): O(n), onde n é o número de laptops na lista. A função percorre todas as linhas para encontrar laptops com RAM e armazenamento dentro dos intervalos especificados.
-* Big Theta (Θ): Θ(n), no pior caso.
-* Big Omega (Ω): Ω(1), se não houver laptops que atendam aos critérios.
+* Big Theta (Θ): Θ(n), na media.
+* Big Omega (Ω): Ω(n), independente da ordem dos laptops, o algoritmo deve percorrer a lista inteira buscando pelo intervalo de preços.

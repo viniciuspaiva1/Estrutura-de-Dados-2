@@ -115,7 +115,7 @@ class Inventory():
                 return self.rows_by_price.index(row)
         return -1
 
-    def find_laptop_within_price_range(self, min_price, max_price):
+    def find_laptop_within_price_range(self, min_price, max_price): 
         """
         Encontra laptops dentro de um intervalo de preço específico.
 
@@ -127,10 +127,12 @@ class Inventory():
         - Um dicionário com os detalhes dos laptops dentro do intervalo de preço especificado.
         """
         laptops_in_range = {}
-        for row in self.rows_by_price:
-            if row[-1] >= min_price and row[-1] <= max_price:
-                laptops_in_range[row[0]] = row
+        if min_price in self.prices and max_price in self.prices and min_price <= max_price:
+            for row in self.rows_by_price:
+                if row[-1] >= min_price and row[-1] <= max_price:
+                    laptops_in_range[row[0]] = row
         return laptops_in_range
+        
 
     def find_laptop_with_RAM_and_storage(self, ram, storage):
         """
