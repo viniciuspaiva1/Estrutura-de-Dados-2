@@ -1,0 +1,11 @@
+Id,Company,Product,TypeName,Inches,ScreenResolution,Cpu,Ram,Memory,Gpu,OpSys,Weight,Price
+1,Apple,MacBook Pro,Ultrabook,13.3,"2560x1600 IPS Retina Display",Intel Core i5,8GB,256GB SSD,Intel Iris Plus Graphics 645,macOS,1.37kg,1299
+2,HP,HP Pavilion,Gaming,15.6,"1920x1080 Full HD",Intel Core i7,16GB,1TB HDD + 256GB SSD,NVIDIA GeForce GTX 1650,Windows 10,2.04kg,979
+3,Dell,Dell XPS,Ultrabook,13.3,"3840x2160 4K UHD",Intel Core i7,16GB,512GB SSD,Intel UHD Graphics 620,Windows 10,1.21kg,1399
+4,Lenovo,Lenovo ThinkPad,Notebook,14.0,"1920x1080 Full HD",Intel Core i5,8GB,256GB SSD,Intel UHD Graphics 620,Windows 10,1.63kg,799
+5,ASUS,ASUS ROG,Gaming,17.3,"1920x1080 Full HD",Intel Core i9,32GB,1TB SSD,NVIDIA GeForce RTX 3080,Windows 10,2.75kg,2999
+6,Acer,Acer Swift,Ultrabook,14.0,"1920x1080 Full HD",Intel Core i3,4GB,128GB SSD,Intel UHD Graphics 620,Windows 10,1.30kg,599
+7,Microsoft,Microsoft Surface,2 in 1,12.3,"2736x1824 PixelSense Touchscreen",Intel Core i5,8GB,256GB SSD,Intel HD Graphics 620,Windows 10,0.77kg,999
+8,HP,HP EliteBook,Notebook,14.0,"1920x1080 Full HD",Intel Core i7,16GB,512GB SSD,Intel UHD Graphics 620,Windows 10,1.48kg,1099
+9,Acer,Acer Predator,Gaming,15.6,"1920x1080 Full HD",Intel Core i7,16GB,256GB SSD + 1TB HDD,NVIDIA GeForce GTX 1660 Ti,Windows 10,2.70kg,1499
+10,Lenovo,Lenovo Yoga,2 in 1,15.6,"3840x2160 4K UHD",Intel Core i7,16GB,1TB SSD,NVIDIA GeForce GTX 1650,Windows 10,2.00kg,1299
