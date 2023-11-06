@@ -1,6 +1,7 @@
 ## Aluno: Vinicius Paiva
 ## Professor: Ivanovitch Medeiros
 ## DCA, UFRN - 2023.2
+## Link para o vídeo: https://youtu.be/_y1kxoReOno
 
 ## Sobre a atividade
 O objetivo da atividade era aprender a extrair dados de um grafo, métricas importantes para nos ajudar a compreender aquele grafo que esta sendo trabalhado. Foi plotado um gráfico de assortatividade para cada uma das redes analisadas, para mostrar de forma visual o grau de assortatividade do grafo, ou seja, como esses nós estão conectados entre si. Esses resultados serão trabalhados e apresentados no requisito 02
