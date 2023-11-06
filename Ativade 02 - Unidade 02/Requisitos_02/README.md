@@ -1,3 +1,4 @@
+# Explicação
 A assortatividade é uma métrica utilizada para quantificar a tendência de nós individuais se conectarem a outros nós semelhantes em um grafo, um fenômeno conhecido como homofilia.
 
 A assortatividade pode definir o comportamento dinâmico de uma rede, bem como a sua robustez, analisando o seu grau de assortatividade. Por exemplo, em uma rede social, é possível visualizar que os nós tendem a se conectar a outros nós com graus semelhantes, ou seja, características semelhantes. Esta característica é conhecida como assortatividade.
